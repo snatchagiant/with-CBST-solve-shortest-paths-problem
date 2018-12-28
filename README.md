@@ -48,5 +48,5 @@ We have roughly divided a whole computing process into 10th steps. The first ste
 # The license
 The Intelligent Property about this entire solution including CBST and on shortest paths problem is deserved to author in nature. It is only just for the academic application or research works, so far not in any commerce. If you intend to apply those algorithms in duplication, distribution, publishing, curriculum or teaching works; or on the other hand as a module in your software or project; please annotate clearly the reference or citation. If necessary, notice author for grant please.
 
-Copyright (C) Yong Tan; if contect us by email: yongtan_navigation@outlook.com
+Copyright (C) Yong Tan; if contact with us by email: yongtan_navigation@outlook.com
 
